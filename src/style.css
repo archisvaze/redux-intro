@@ -32,6 +32,7 @@ button:hover {
     flex-direction: column;
     color: black;
     background-color: white;
+    transition: all 1s ease;
 }
 
 .profile-container {
